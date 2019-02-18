@@ -1,4 +1,4 @@
-## Draft-js-HashTag sample
+## Draft-js-Custom plugins sample
 
 Draft-js is a rich text editor created by facebook
 
@@ -8,4 +8,4 @@ Draft-js is a rich text editor created by facebook
 
 [Draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
 
-This application shows the usage of Draft-js with hashtags  with composite decorators. 
+This application shows the usage of Draft-js with hashtags, mentions, linkify and emoji-mart  with composite decorators. 
